@@ -1,0 +1,57 @@
+body {
+
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ignou.ac.in%2F&psig=AOvVaw0DzAgSPUAFzGrhtOzGS2sR&ust=1745760186518000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj9ldPl9YwDFQAAAAAdAAAAABAE');
+
+
+  
+    
+}
+
+header {
+    background: rgba(0, 51, 102, 0.8);
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #3fb3f6;
+    text-decoration: none;
+}
+
+main {
+    padding: 2px;
+    color: #10100f; 
+
+}
+main section h2 {
+    padding: 20px;
+              background-color: rgb(144, 227, 248);
+              color: rgb(46, 59, 239);
+              font-size:x-large;
+              font-family: Arial, Helvetica, sans-serif;
+}
+main section h1 {
+    padding: 20px;
+              background-color: rgb(244, 153, 156);
+              color: rgb(2, 2, 26);
+              font-size:x-large;
+              font-family: Arial, Helvetica, sans-serif;
+
+
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: rgba(0, 51, 102, 0.8);
+    color: #fff;}
